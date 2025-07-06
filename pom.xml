@@ -164,7 +164,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.lone.lonepicturebackend.LonePictureBackendApplication</mainClass>
+                    <mainClass>com.lone.lonepicture.LonePictureBackendApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>
